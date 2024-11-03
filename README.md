@@ -20,7 +20,6 @@ Method 5: Using the heapq Module for Large Lists
 
 FAQs: Sorting Python Lists of Numbers
 
-Before You Leave
 
 
 
